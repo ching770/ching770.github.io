@@ -326,6 +326,15 @@ th {
   text-align: inherit;
   text-align: -webkit-match-parent;
 }
+#experience {
+  background-image: url('../assets/img/pngtree-green-hazy-background-material-ink-plain-color-simple-white-clouds-image_988234.jpg');
+  background-size: cover;        
+  background-position: center center;   
+  position: relative;
+  z-index: 0;
+
+}
+
 
 thead,
 tbody,
